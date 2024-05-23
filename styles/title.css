@@ -1,0 +1,99 @@
+.title{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+
+.title__profile{ /*imagen*/
+  height: 98px; 
+  width: 98px; 
+  
+  float: left;
+}
+/*.title__container{
+    padding: 10px ;
+}*/
+
+.title__bio{  /*texto grande*/
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+.title__subsection{
+    font-size: 16px;
+    font-weight: lighter;
+    margin-bottom: 1rem;
+
+}
+.title__network{ /*redes*/
+    display: flex;
+    gap: 10px;
+}
+
+
+@media (min-width: 768px){
+    .title{
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: space-around;
+        padding: 10px;;
+    }
+    .title__profile{
+      height: 150px; 
+      width: 150px; 
+    }
+    
+    .title__bio{
+        font-size: 32px;
+        font-weight: bold;
+        padding: 32px;
+    }
+    .title__subsection{
+        font-size: 20px;
+        font-weight: lighter;
+        margin-bottom: 1rem;
+    
+    }
+    
+    .title__network{
+        display: flex;
+        font-size: 16px;
+        gap: 10px;
+        justify-content: space-around;
+    
+    }
+}
+@media (min-width: 1024){
+    .title{
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: space-around;
+        padding: 10px;;
+    }
+    .title__profile{
+      height: 150px; 
+      width: 150px; 
+    }
+    
+    .title__bio{
+        font-size: 42px;
+        font-weight: bold;
+        padding: 32px;
+    }
+    .title__subsection{
+        font-size: 22px;
+        font-weight: lighter;
+        padding:  center 10px;
+    
+    }
+    
+    .title__network{
+        display: flex;
+        font-size: 16px;
+        gap: 10px;
+        justify-content: space-around;
+    
+    }
+}

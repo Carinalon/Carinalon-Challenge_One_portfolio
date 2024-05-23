@@ -1,20 +1,3 @@
-.about{
-    vertical-align: middle;
-    width: 900px;
-    height: 100px;
-    margin-left: 15px;
-    padding: 20px;
-    text-align: left;
-    justify-content: center;
-    background-color: #f0c5c5; 
-    font-size: 18px;
-    border-radius: 10px;
-}
-
-.about__title{
-    display: flex;
-    padding: 10px;
-    align-items: flex-start;
-    font-size: 22px;
-
+.about__container{
+    
 }
