@@ -1,0 +1,14 @@
+.skills__line{
+    display: flex;
+    justify-content: space-around;
+}
+
+.skills__title{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.skills__box{
+    align-self: center;
+    padding: 5px;
+}

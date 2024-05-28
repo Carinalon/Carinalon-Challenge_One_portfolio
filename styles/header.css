@@ -12,6 +12,10 @@ header {
     display: flex;
     align-items: center;
     gap: 10px;
+    font-size: 16px;
+}
+h3 .menu__title{
+    font-size: 16px;  
 }
 
 .menu__list{

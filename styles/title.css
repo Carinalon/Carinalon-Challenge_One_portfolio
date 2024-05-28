@@ -7,10 +7,8 @@
 }
 
 .title__profile{ /*imagen*/
-  height: 98px; 
-  width: 98px; 
-  
-  float: left;
+    height: 98px; 
+    width: 98px; 
 }
 /*.title__container{
     padding: 10px ;
@@ -30,6 +28,7 @@
 .title__network{ /*redes*/
     display: flex;
     gap: 10px;
+
 }
 
 
@@ -41,8 +40,8 @@
         padding: 10px;;
     }
     .title__profile{
-      height: 150px; 
-      width: 150px; 
+        height: 150px; 
+        width: 150px; 
     }
     
     .title__bio{
@@ -73,8 +72,8 @@
         padding: 10px;;
     }
     .title__profile{
-      height: 150px; 
-      width: 150px; 
+        height: 250px;
+        width: 250px;
     }
     
     .title__bio{

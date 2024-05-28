@@ -1,0 +1,17 @@
+#formacion{
+        display: flex;
+        flex-direction: column;
+        justify-items: center;
+}
+    
+.academic__title{
+        display: flex;
+        justify-content: center;
+       
+}
+.academic__courses__box{
+      display: flex;
+        
+        
+}
+
