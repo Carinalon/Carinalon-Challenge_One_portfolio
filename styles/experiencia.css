@@ -1,0 +1,18 @@
+.experience__section__title{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ background-color: #f0c5c5;
+ height: 40px;
+}
+
+.experience__box{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    
+    
+
+}

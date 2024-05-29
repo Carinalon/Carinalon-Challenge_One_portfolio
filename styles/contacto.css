@@ -1,0 +1,18 @@
+.formcontacto__contacto{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+     
+    gap: 10px;
+    margin: 10px;
+    border: 30px solid #f0c5c5;
+}
+.formcontacto__text{
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   align-items: center;
+}
+.formcontacto__form{
+    display: flex;
+    flex-direction: column;
+}
