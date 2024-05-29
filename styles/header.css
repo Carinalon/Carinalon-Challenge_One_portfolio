@@ -51,3 +51,9 @@ h3 .menu__title{
         display: none;
     }
 }
+
+/*header:before {
+    content: "";
+    background: url(/img/colorFondo.jpg);
+    opacity: 0.5;
+}*/

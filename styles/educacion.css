@@ -1,9 +1,10 @@
 .academic__title{
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        background-color: #f0c5c5;
-        height: 40px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color:  rgba(240, 197, 197, 0.5); 
+      height: 80px;
+      margin: 5% 15% 5% 15%;
        
 }
 .academic__courses{

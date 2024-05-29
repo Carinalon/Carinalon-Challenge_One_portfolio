@@ -1,13 +1,18 @@
+.hobbies{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    align-items: center;
+    border: 15px solid #f0c5c5;;
+    margin: 5% 15% 5% 15%
+    
+}
 .hobbies__line{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
-.hobbies__title{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-}
+
 .hobbies__box{
     align-self: center;
     padding: 5px;

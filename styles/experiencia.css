@@ -1,9 +1,10 @@
 .experience__section__title{
  display: flex;
- flex-direction: column;
+ justify-content: center;
  align-items: center;
- background-color: #f0c5c5;
- height: 40px;
+ background-color:  rgba(240, 197, 197, 0.5) ;
+ height: 80px;
+ margin: 5% 15% 5% 15%
 }
 
 .experience__box{
