@@ -37,49 +37,49 @@ https://en.bem.info/methodology/quick-start/*/
 
 /*Sección Menu*/
 
-section.menu{
+/*section.menu{
 
 }
 
 /*Sección Title*/
 
-section.title{
+/*section.title{
 
 }
 
 /*Sección About*/
 
-section.about{
+/*section.about{
 
 }
 
 /*Sección Hobbies*/
 
-section.hobbies{
+/* section.hobbies{
     
 }
 
 /* Experiencia Académica*/
 
-section.academic{
+/*section.academic{
 
 }
 
 /* experiencia*/
 
-section.experience{
+/*section.experience{
 
 }
 
 /*Contacto*/
 
-section.formcontato{
+/*section.formcontato{
 
 }
 
 /*footeer*/
 
-section.footer{
+/*section.footer{
    
 }
 
@@ -88,7 +88,7 @@ Utiliza las referencias de los breakpoints @media abajo */
 
 
 /*Tablet*/
-@media (min-width: 768px) {
+/*@media (min-width: 768px) {
 
 /* Menú */
 
@@ -102,10 +102,10 @@ Utiliza las referencias de los breakpoints @media abajo */
 
 /*Experiencia Profesional*/
 
-}
+/*}
 
 /*Mobile*/
-@media (min-width: 425px) {
+/*@media (min-width: 425px) {
 
 /*Menu*/
 
@@ -125,4 +125,3 @@ Utiliza las referencias de los breakpoints @media abajo */
 
 /*Footer*/
 
-}
