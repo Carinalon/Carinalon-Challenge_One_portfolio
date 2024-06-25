@@ -1,0 +1,16 @@
+.footer{
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  padding: 20px 10px;
+  background-color: #f0c5c5 ;
+}
+
+.footer__rodape{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+
+}
